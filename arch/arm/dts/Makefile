@@ -630,6 +630,8 @@ dtb-$(CONFIG_MACH_SUN50I) += \
 	sun50i-a64-pinephone-1.1.dtb \
 	sun50i-a64-pinephone-1.2.dtb \
 	sun50i-a64-pinetab.dtb \
+	sun50i-a64-recore-a3.dtb \
+	sun50i-a64-recore-a4.dtb \
 	sun50i-a64-sopine-baseboard.dtb \
 	sun50i-a64-teres-i.dtb
 dtb-$(CONFIG_MACH_SUN9I) += \
